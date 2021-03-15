@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jillm704
+- 👋 Hi, I’m Jill!
 - 👀 I’m interested in website development and design, UX/UI design, and JavaScript programming.
 - 🌱 I’m currently learning and working with HTML5, CSS3, Bootstrap, vanilla JavaScript, and VS Code; I plan on learning Sass, jQuery, WordPress, and more.
 -
