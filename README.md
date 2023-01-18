@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jill!
 - 👀 I’m interested in website design, UX/UI design, SEO, and a little bit of web development.
 - 🌱 I’m currently skilled with WordPress, Elementor, SEO and accesibility best practices, HTML5, and CSS3.
-- I have familiarity with BootStrap, Sass/SCSS, and JavaScript.
+- I have familiarity with BootStrap, Sass/SCSS, Adobe Express and JavaScript.
 
 
 <!---
