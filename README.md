@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jill!
-- 👀 I’m interested in website development and design, UX/UI design, and JavaScript programming.
-- 🌱 I’m currently learning and working with HTML5, CSS3, Bootstrap, vanilla JavaScript, and VS Code; I plan on learning Sass, jQuery, WordPress, and more.
--
-- 📫 How to reach me ...
+- 👀 I’m interested in website design, UX/UI design, SEO, and a little bit of web development.
+- 🌱 I’m currently skilled with WordPress, Elementor, SEO and accesibility best practices, HTML5, and CSS3.
+- I have familiarity with BootStrap, Sass/SCSS, and JavaScript.
+
 
 <!---
 Jillm704/Jillm704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
